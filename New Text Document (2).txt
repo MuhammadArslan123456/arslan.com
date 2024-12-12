@@ -1,0 +1,25 @@
+<h1 style=" font-size:50px;text-align:center;margin-top:40px;"> <i>A New Adventure Of HTML</h1>
+<hr>
+<h2 style=" font-size:40px;text-align:center"><i>INTRODUTION </h2>
+<P style=" font-size:30px;text-align:center;line-height:60px"><b>NAME:MUHAMMAD ARSLAN SALEEM<br>CLASS:BSCS(IT)<br>GR NO:228<br>SUBJECT:ICT(LAB)<br>
+DATE:11/12/2024<br></P>
+<hr style="text-align:center;width:50%;">
+<img style="width;100%"; src="01.jpg">
+<style=margin-top:40px>
+<h3 style=" font-size:50px;text-align:center;color:red">QUESTIONS AND ANSWERS </h3>
+<p style=font-size:30px;text-align:center>Q1: What does HTML stand for?</p>
+<p style=font-size:30px;color:blue>ANS:HTML stand for (hyper text markup language).HTML is a standard markup language used <br>to create web pages, structure content, and provide a framework for displaying text,<br> images, videos, and other multimedia elements on the web.
+<p style="font-size:30px; text-align:center">Q2:Why is html used for?</p>
+<p style=font-size:30px;color:brown;text-align:center>Top 10 Uses of HTML in the Real World.</p>
+<p style=font-size:30px;color:blue>1. Web Pages Development<br>2. Navigating the Internet<br>3. Responsive Designs<br>
+4. Storage Function in the Browser<br>5. Data Entry Support<br>6. Creation of Web Documents<br>7. Game Development<br>
+8. Offline Web Applications<br>9. Cutting Edge Feature<br>10. Enrich the Website<br></p>
+<p style="font-size:30px; text-align:center">Q3:What are html element's?</p>
+<p style="font-size:30px;color:blue;margin-bottom:50px">An HTML Element consists of a start tag, content, and an end tag,<br>
+ which together define the element’s structure and functionality. Elements <br>
+are the basic building blocks of a webpage and can represent different types<br>
+ of content, such as text, links, images, or headings.</p><hr><style=<hr>
+<img style="width;100%"; src="02.png">
+<img style="width;100%"; src="03.png">
+<img style="width;100%"; src="04.jpg">
+<img style="width;33%"; src="05.jpg">
